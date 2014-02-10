@@ -43,4 +43,18 @@ Essential Practices
 * test driven development
 
 ### 3. Implementing a Testing Strategy ###
+Testing is a function that involves multiple teams and should be done continuously. Building quality in means writing automated tests at multiple levels (unit, component, and acceptance) and running them as part of the deployment pipeline, which is triggered every time a change is made to the application. Manual testing is also essential part of building quality in: Showcases, usability testing, and exploratory testing.
+* Automated tests are run by CI - should also include tests for security and capacity
 
+Benefits of a good testing strategy
+* establishes confidence that the software is working the way it should
+* fewer bugs
+* reduced support cost
+* improved reputation
+
+Types of tests
+* Business-facing tests that support the development process (functional and acceptance tests)
+* Technology-facing tests that support the development process (unit, functional, and deploy tests)
+* Business-facing tests that critique the project (manual QA testing and user testing)
+* Technology-facing tests that critique the project (functional and non-functional tests - capacity, security, etc..)
+* Test Doubles (stubs, mocks, etc..)
