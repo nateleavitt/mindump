@@ -1,5 +1,5 @@
 ## Continuous Delivery Strategy ##
-[**Foundations](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#i-foundations)
+[**Foundations**](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#i-foundations)
 
 1. [Configuration Management](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#1-configuration-management)
 2. [Continuous Integration](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#2-continuous-integration-ci)
