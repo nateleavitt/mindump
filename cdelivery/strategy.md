@@ -26,7 +26,7 @@ Benefits of CI
 * fewer bugs - bugs are caught much earlier in delivery process
 * cheaper to fix - significant cost and time savings
 
-Three things needed before being CI implementation
+Three things needed before CI implementation
 * version control
 * an automated build - be able to build and run test scripts from the command line.. apart from IDE
 * agreement of team - smaller commits, more often.. it is a practice not a tool
@@ -43,3 +43,4 @@ Essential Practices
 * test driven development
 
 ### 3. Implementing a Testing Strategy ###
+
