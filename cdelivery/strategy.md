@@ -41,3 +41,5 @@ Essential Practices
 * do not comment out failing tests
 * take responsibility for all breakages that result from your changes
 * test driven development
+
+### 3. Implementing a Testing Strategy ###
