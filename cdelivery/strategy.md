@@ -1,8 +1,8 @@
 ## Continuous Delivery Strategy ##
 * [Foundations](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#i-foundations)
-** Configuration Management
-** Continuous Integration
-** Implementing a Test Strategy
+..* Configuration Management
+..* Continuous Integration
+..* Implementing a Test Strategy
 
 * [The Deployment Pipeline](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#ii-the-deployment-pipeline)
 * [The Delivery Ecosystem](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#iii-the-delivery-ecosystem)
