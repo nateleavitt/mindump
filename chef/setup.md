@@ -2,7 +2,7 @@
 _source: http://www.jasongrimes.org/2012/06/provisioning-a-lamp-stack-with-chef-vagrant-and-ec2-2-of-3_
 
 ### Provisioning a LAMP stack with Chef, Vagrant, and EC2 (2 of 3) ###
-* Set up Git, Chef, EC2, and Vagrant* Set up Chef server and workstation
+* Set up Git, Chef, EC2, and Vagrant
 * Get cookbooks
 * Create Chef environments for development and production
 * Create Chef roles for webserver and database
