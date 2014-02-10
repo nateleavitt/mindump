@@ -6,6 +6,7 @@
 3. [Implementing a Test Strategy](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#3-implementing-a-testing-strategy)
 
 [**II. The Deployment Pipeline**](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#ii-the-deployment-pipeline)
+
 [**III. The Delivery Ecosystem**](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#iii-the-delivery-ecosystem)
 
 ## I. Foundations ##
