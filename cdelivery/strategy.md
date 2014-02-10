@@ -2,7 +2,7 @@
 I. [**Foundations**](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#i-foundations)
 
 1. [Configuration Management](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#1-configuration-management)
-2. [Continuous Integration](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#2-continuous-integration-ci)
+2. [Continuous Integration](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#2-continuous-integration-ci) (currently reading)
 3. [Implementing a Test Strategy](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#3-implementing-a-testing-strategy)
 
 II. [**The Deployment Pipeline**](https://github.com/nateleavitt/mindump/blob/master/cdelivery/strategy.md#ii-the-deployment-pipeline)
