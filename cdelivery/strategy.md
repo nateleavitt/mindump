@@ -69,4 +69,8 @@ Types of tests
 * Test Doubles (stubs, mocks, etc..)
 
 ## II. The Deployment Pipeline ##
+
+### Anatomy of the Deployment Pipeline ###
+
+
 ## III. The Delivery Ecosystem ##
