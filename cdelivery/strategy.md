@@ -69,4 +69,12 @@ Types of tests
 * Test Doubles (stubs, mocks, etc..)
 
 ## II. The Deployment Pipeline ##
+
+### Anatomy of the Deployment Pipeline
+An automated manifestation of your process for getting software from the developers to the end users. The input to the pipeline is a particular revision in version control. Every change creates a build that will pass through a sequence of tests multiple times before going to production. This ensures that continuous tests are done and you are able to capture bugs faster.
+
 ## III. The Delivery Ecosystem ##
+
+## IV. Other Notes ##
+* http://12factor.net/
+* Polyglot platform - Polyglot programming allows using the right tool for the job, offering substantial gains in speed and agility of development.
