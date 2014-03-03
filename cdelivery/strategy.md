@@ -72,7 +72,7 @@ Types of tests
 
 ### Anatomy of the Deployment Pipeline
 An automated manifestation of your process for getting software from the developers to the end users. The input to the pipeline is a particular revision in version control. Every change creates a build that will pass through a sequence of tests multiple times before going to production. This ensures that continuous tests are done and you are able to capture bugs faster.
-![changes moving through the deployment pipeline](https://doc-0o-8c-docs.googleusercontent.com/docs/securesc/khpjpg41t2drg5qa7f0pe27eg4efv44u/ivn88p5oshnb759d6ltnbsc3bv13bq7g/1393869600000/04265684920719681213/04265684920719681213/0B7DJp1AfHDhEZDc4SXhDNnp2X0U?h=16653014193614665626&nonce=c33c8g05r2giq&user=04265684920719681213&hash=90raiqusfp4kv0b80tbpnnl356afi6u6)
+![changes moving through the deployment pipeline](http://drive.google.com/uc?export=view&id=0B7DJp1AfHDhEZDc4SXhDNnp2X0U)
 
 ## III. The Delivery Ecosystem ##
 
