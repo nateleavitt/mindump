@@ -1,4 +1,5 @@
 ### Consultants ###
+* http://bitfieldconsulting.com/about - John Arundel
 * Thoughtworks - http://www.thoughtworks.com/continuous-delivery
 * EngineYard - https://www.engineyard.com/services/development-services
 * PuppetLabs - http://puppetlabs.com/services/consulting

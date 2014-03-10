@@ -72,10 +72,15 @@ Types of tests
 
 ### Anatomy of the Deployment Pipeline
 An automated manifestation of your process for getting software from the developers to the end users. The input to the pipeline is a particular revision in version control. Every change creates a build that will pass through a sequence of tests multiple times before going to production. This ensures that continuous tests are done and you are able to capture bugs faster.
-![changes moving through the deployment pipeline](http://drive.google.com/uc?export=view&id=0B7DJp1AfHDhEZDc4SXhDNnp2X0U)
+![changes moving through the deployment pipeline](http://drive.google.com/uc?export=view&id=0B7DJp1AfHDhEam9VNDZiVmpWN1k)
+
+* this prevents you from releasing builds that are not fit for their intended purpose.
+* when deployment and production releases are automated, they are _rapid_, _repeatable_, and _reliable_.
 
 ## III. The Delivery Ecosystem ##
 
-## IV. Other Notes ##
+## IV. Other Notes/Items ##
+* https://github.com/teamfruit/defend_against_fruit/wiki
+* http://yow.eventer.com/events/1004/talks/1062
 * http://12factor.net/
 * Polyglot platform - Polyglot programming allows using the right tool for the job, offering substantial gains in speed and agility of development.
